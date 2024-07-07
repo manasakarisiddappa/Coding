@@ -3,6 +3,14 @@
  * Given an array arr[] of N integers and an integer X, the task is to find three
  * integers in arr[] such that the sum is closest to X.
  *
+ * Input: arr[] = {-1, 2, 1, -4}, X = 1
+  Output: 2
+  Explanation:
+  Sums of triplets:
+  (-1) + 2 + 1 = 2
+  (-1) + 2 + (-4) = -3
+  2 + 1 + (-4) = -1
+  2 is closest to 1.
  *
  */
 
